@@ -868,5 +868,7 @@ p {
 
 .virus-chart {
   margin-top: 100px;
+  mix-blend-mode: luminosity;
 }
+
 /* SVG container visual elements */
