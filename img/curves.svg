@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="cases-curve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 754.3 476.9" style="enable-background:new 0 0 754.3 476.9;" xml:space="preserve">
+<style type="text/css">
+	.st0-curves{fill:#00FF00;}
+	.st1-curves{clip-path:url(#SVGID_2_curves);fill:#E22729;stroke:url(#SVGID_3_curves);stroke-width:5;stroke-miterlimit:10;}
+</style>
+<path class="st0-curves" d="M502.3,469H156.4c0,0,76.3-329.6,173-329.6C399,139.4,502.3,469,502.3,469z"/>
+<g>
+	<defs>
+		<path id="SVGID_1_curves" d="M315.7,361.1c14.1-35.6,125.7-340.3,229.6-9.1c0,0,17.1,80.2,58.5,117.4H257.9c0,0,39.3-61,57-106
+			C315.2,362.6,315.4,361.9,315.7,361.1z"/>
+	</defs>
+	<clipPath id="SVGID_2_curves">
+		<use xlink:href="#SVGID_1_curves"  style="overflow:visible;"/>
+	</clipPath>
+	<linearGradient id="SVGID_3_curves" gradientUnits="userSpaceOnUse" x1="431.8253" y1="485.3287" x2="431.8253" y2="193.5393">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0" style="stop-color:#406CB2"/>
+		<stop  offset="1" style="stop-color:#E22729"/>
+	</linearGradient>
+	<path class="st1-curves" d="M240.4,482.8h382.9 M240.4,467.7h382.9 M240.4,452.6h382.9 M240.4,437.5h382.9 M240.4,422.5h382.9
+		 M240.4,407.4h382.9 M240.4,392.3h382.9 M240.4,377.2h382.9 M240.4,362.1h382.9 M240.4,347h382.9 M240.4,331.9h382.9 M240.4,316.8
+		h382.9 M240.4,301.7h382.9 M240.4,286.6h382.9 M240.4,271.5h382.9 M240.4,256.4h382.9 M240.4,241.3h382.9 M240.4,226.2h382.9
+		 M240.4,211.1h382.9 M240.4,196h382.9"/>
+</g>
+</svg>

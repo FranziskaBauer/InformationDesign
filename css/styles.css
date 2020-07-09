@@ -198,27 +198,43 @@ body {
 
 .wrapper {
   width: 80%;
-  margin: 0 10%; }
+  margin: 0 10%; 
+}
+
+.intro-text {
+  text-align: left;
+  width: 600px;;
+}
 
 /* Make the body 100% of the browser viewport height */
 html, body {
   height: 100%;
   margin: 0; }
 
+.nav-label {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
 h1 {
   font-size: 2em;
   margin-top: 0;
-  font-family: 'Roboto Condensed', Helvetica, Helvetica Neue, Arial, sans-serif;
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 900; 
   text-transform: uppercase;
 }
 
-h2 {
+h2, .h2-intro {
   font-size: 1.5em;
   margin-top: 0;
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 300;
+}
+.h2-intro {
+  text-align: left;
+}
+
+.h1-intro {
+  text-align: left;
 }
 
 h3 {
@@ -264,6 +280,7 @@ h3 {
     /* background: url(../img/img_mountains04.jpg) no-repeat center center; */
     background-size: cover;
     /* opacity: 0.7;  */
+    height: 2000px;
     background-color: #0B0F28;}
 
 /* =Navigation */
@@ -350,6 +367,13 @@ p {
 
 .fs {
   height: 100vh; }
+
+.fs-1 {
+  height: 150vh; }
+  
+.fs-intro {
+  height: 80vh;
+}
 
 .slide {
   color: #ffffff;
@@ -460,7 +484,7 @@ p {
     position: relative; }
     .header-container .wrapper {
       position: absolute;
-      top: 50%;
+      top: 90%;
       left: 50%;
       -webkit-transform: translate(-50%, -120%);
           -ms-transform: translate(-50%, -120%);
@@ -788,7 +812,6 @@ p {
   align-items: flex-end;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 50px;
   width: 1000px;
 }
 
@@ -802,6 +825,7 @@ p {
   align-items: center;
   height: 70px;
   border-radius: 50px;
+  margin-top: 150px;
   background: linear-gradient(270deg, #406cb2, #e32528);
     background-size: 200% 200%;
 
@@ -824,5 +848,16 @@ p {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
+}
+
+.graphline {
+  margin-top: 100px;
+  width: 1000px;
+}
+
+#cases-curves {
+  margin-top: 100px;
+  width: 300px;
+  z-index: 200;
 }
 /* SVG container visual elements */
