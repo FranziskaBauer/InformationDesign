@@ -211,6 +211,10 @@ html, body {
   height: 100%;
   margin: 0; }
 
+.nav {
+  z-index: 1000;
+}
+
 .nav-label {
   font-family: 'IBM Plex Mono', monospace;
 }
@@ -280,7 +284,7 @@ h3 {
     /* background: url(../img/img_mountains04.jpg) no-repeat center center; */
     background-size: cover;
     /* opacity: 0.7;  */
-    height: 2000px;
+    /* height: 2000px; */
     background-color: #0B0F28;}
 
 /* =Navigation */
@@ -369,7 +373,7 @@ p {
   height: 100vh; }
 
 .fs-1 {
-  height: 150vh; }
+  height: 300vh; }
   
 .fs-intro {
   height: 80vh;
@@ -667,7 +671,7 @@ p {
   margin-right: auto;
   margin-left: auto;
   margin-top: 300px;
-  width: 1000px;
+  width: 60vw;
 }
 
 .color {
@@ -812,7 +816,7 @@ p {
   align-items: flex-end;
   margin-right: auto;
   margin-left: auto;
-  width: 1000px;
+  width: 90vw;
 }
 
 .visual-circle {
@@ -857,7 +861,12 @@ p {
 
 #cases-curves {
   margin-top: 100px;
+  margin-bottom: 100px;
   width: 300px;
   z-index: 200;
+}
+
+.virus-chart {
+  margin-top: 100px;
 }
 /* SVG container visual elements */
